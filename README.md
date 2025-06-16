@@ -1,3 +1,4 @@
+
 <!-- Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Hello%2C+I'm+Abu+Hasnayen+Zillanee" alt="Typing SVG" />
@@ -119,3 +120,7 @@
 📫 hasnayen3072@gmail.com | ✍️ [Schedule Meeting](https://calendly.com/YOUR_LINK)
   
 </div>
+<blockquote style="border-left: 4px solid #2c3e50; padding: 10px; background: #f8f9fa; font-family: 'Georgia', serif;">
+  <p style="font-style: italic; font-size: 1.2em;">"The question of whether a machine can think is no more interesting than the question of whether a submarine can swim."</p>
+  <footer>— <strong>Edsger Dijkstra</strong> (1976)</footer>
+</blockquote>
